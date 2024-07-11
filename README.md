@@ -11,6 +11,7 @@ We collect the following information from users of Whale Partnerships:
 - Server ID: To manage partnerships and automate invites.
 - Server Topic: To match you with partners with a similar topic.
 - Partnerships Channel: To send invites.
+- Server Description: To send with invites.
 - Error logs: Technichal data related to errors or issues with the bot.
 
 ## How We Use This Information
