@@ -12,10 +12,11 @@ We collect the following information from users of Whale Partnerships:
 - Server Topic: To match you with partners with a similar topic.
 - Partnerships Channel: To send invites.
 - Server Description: To send with invites.
-- Technichal Data: Technichal data related such as bot usage patterns or performance metrics.
+- Technichal Data: Technichal data such as bot usage patterns or performance metrics.
 - Partnered Servers: To avoid duplicate partnerships
 - Invite URLS: To send in the partnerships channel of other servers.
 - Modal Submissions: To access your server description.
+- User ID of the User Who Ran the '/config' Command: To notify the user of potential issues with their configuration.
 
 ## How We Use This Information
 
