@@ -16,7 +16,8 @@ We collect the following information from users of Whale Partnerships:
 - Partnered Servers: To avoid duplicate partnerships
 - Invite URLS: To send in the partnerships channel of other servers.
 - Modal Submissions: To access your server description.
-- User ID of the User Who Ran the '/config' Command: To notify the user of potential issues with their configuration.
+- User ID of the User Who Ran the `/config` Command: To notify the user of potential issues with their configuration.
+- 
 
 ## How We Use This Information
 
